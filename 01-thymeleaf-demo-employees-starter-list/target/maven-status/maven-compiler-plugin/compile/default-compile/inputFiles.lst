@@ -1,0 +1,9 @@
+/Users/dgeorgiev/Downloads/emerchantpay-employee-demo/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/EmployeeDemoApplication.java
+/Users/dgeorgiev/Downloads/emerchantpay-employee-demo/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/entity/Employee.java
+/Users/dgeorgiev/Downloads/emerchantpay-employee-demo/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/pageObjects/EmployeesPage.java
+/Users/dgeorgiev/Downloads/emerchantpay-employee-demo/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/controller/EmployeeController.java
+/Users/dgeorgiev/Downloads/emerchantpay-employee-demo/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/service/EmployeeServiceImpl.java
+/Users/dgeorgiev/Downloads/emerchantpay-employee-demo/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/abstractComponents/AbstractComponents.java
+/Users/dgeorgiev/Downloads/emerchantpay-employee-demo/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/controller/DemoController.java
+/Users/dgeorgiev/Downloads/emerchantpay-employee-demo/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/service/EmployeeService.java
+/Users/dgeorgiev/Downloads/emerchantpay-employee-demo/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/dao/EmployeeRepository.java
