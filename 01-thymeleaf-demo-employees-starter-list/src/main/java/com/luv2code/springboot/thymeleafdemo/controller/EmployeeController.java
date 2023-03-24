@@ -59,7 +59,7 @@ public EmployeeController(EmployeeService theEmployeeService) {
 	//delete the employee
 		employeeService.deleteById(theId);
 		//redirect to /employee
-		return "redirect:/employees-list";
+		return "redirect:/employees/list";
 	}
 
 
